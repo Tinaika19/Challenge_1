@@ -9,6 +9,9 @@ This is what the final output will look like.
 
 ![Website screenshot](assets/images/Website.JPG)
 
+## Link to website
+https://tinaika19.github.io/Challenge_1/
+
 
 
 
